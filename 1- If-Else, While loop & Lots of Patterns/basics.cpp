@@ -57,7 +57,7 @@ int main()
     */
 
     // RELATIONAL OPERATORS
-   /*
+   
    int a = 2;
    int b = 3;
 
@@ -78,6 +78,6 @@ int main()
 
    bool sixth = (a!=b);
    cout << sixth << endl;
-   */
+   
   
 }
